@@ -37,5 +37,11 @@ This project leverages the NEO API to extract data, process it, store it in rela
 
 ---
 
+## Install Required Packages ##
+!pip install streamlit streamlit_option_menu
+
+## Run the Application ##
+streamlit run str_app.py
+
 
 
